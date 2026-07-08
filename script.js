@@ -78,6 +78,8 @@ if (page === "index.html" || page === "") {
 
 if (page === "class.html") {
 
-    // Write your Class Page code here.
+    // Code Here
 
 }
+
+
